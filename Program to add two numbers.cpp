@@ -11,6 +11,6 @@ int main()
     cin >> num1 >> num2;
 
     sum = add(num1,num2);
-    cout << "Sum of"<<"add"<< num2<< "is" <<sum<<endl;
+    cout << "Sum of"<< num1<<"add"<< num2<< "is" <<sum<<endl;
     return 0;
 }
